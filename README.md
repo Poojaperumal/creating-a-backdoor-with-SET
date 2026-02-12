@@ -94,8 +94,7 @@ In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address)
 ## OUTPUT
 
 
-
-<img width="831" height="478" alt="Screenshot 2026-02-12 141330" src="https://github.com/user-attachments/assets/bf67dc85-dc34-4bea-b856-5e13e2c8fd81" />
+<img width="913" height="773" alt="325067549-7696ff89-b165-428e-92dc-051eda894e1d" src="https://github.com/user-attachments/assets/9e929a8e-9b75-42dd-83ec-401651504290" />
 
 
 
