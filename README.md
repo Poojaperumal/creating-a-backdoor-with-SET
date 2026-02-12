@@ -95,6 +95,7 @@ In windows IE, on giving the url http://192.168.1.2 (use appropriate IP address)
 
 
 
+<img width="831" height="478" alt="Screenshot 2026-02-12 141330" src="https://github.com/user-attachments/assets/bf67dc85-dc34-4bea-b856-5e13e2c8fd81" />
 
 
 
@@ -102,7 +103,7 @@ SET logs the information regarding the Google credentials:
 ## OUTPUT
 
 
-
+<img width="1697" height="743" alt="325067567-82d08f2c-fcb4-4547-980d-d378a94a802c" src="https://github.com/user-attachments/assets/0dd10bad-25a1-4c7b-8b63-bec3101358f5" />
 
 
 
@@ -112,10 +113,7 @@ SET logs the information in the xml file under /root/.set directory:
 
 
 
-
-
-
-
+![{1FDA3E9C-C2D8-469C-9DDE-74F6E5D70BAF}](https://github.com/user-attachments/assets/eb20c3b6-65d0-4e3e-ae9e-33e84551c44e)
 
 
 
