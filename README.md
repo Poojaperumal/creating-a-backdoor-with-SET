@@ -60,11 +60,20 @@ The Credential Harvester Attack Method displays the following menu. In this menu
 
 
 
+It shows the following screen in which the ip address of the attacker need to be given which is the default value:
+## OUTPUT
+
+
+
+
+
 <img width="431" height="144" alt="Screenshot 2026-02-12 140018" src="https://github.com/user-attachments/assets/07c6c30b-a18f-46fd-b449-bb6df8923eca" />
 
 
-It shows the following screen in which the ip address of the attacker need to be given which is the default value:
-## OUTPUT
+
+
+
+
 
 
 
