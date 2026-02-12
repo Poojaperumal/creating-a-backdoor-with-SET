@@ -35,6 +35,7 @@ The command sudo setoolkit in the prompt gives menu with set prompt. Select menu
 ## OUTPUT
 
 
+<img width="513" height="213" alt="image" src="https://github.com/user-attachments/assets/aff06e1c-61d4-402a-9509-b10c50be4062" />
 
 
 
