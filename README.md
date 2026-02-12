@@ -59,6 +59,9 @@ The Credential Harvester Attack Method displays the following menu. In this menu
 
 
 
+<img width="431" height="144" alt="Screenshot 2026-02-12 140018" src="https://github.com/user-attachments/assets/07c6c30b-a18f-46fd-b449-bb6df8923eca" />
+
+
 It shows the following screen in which the ip address of the attacker need to be given which is the default value:
 ## OUTPUT
 
@@ -104,16 +107,7 @@ SET logs the information regarding the Google credentials:
 
 
 
-SET logs the information in the xml file under /root/.set directory:
-## OUTPUT
-
-
-
-
-![{1FDA3E9C-C2D8-469C-9DDE-74F6E5D70BAF}](https://github.com/user-attachments/assets/eb20c3b6-65d0-4e3e-ae9e-33e84551c44e)
-
-
-
+SET logs the information in the xml file under /root/.set directory
 
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
